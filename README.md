@@ -4,8 +4,6 @@ This repository contains a collection of projects built using SwiftUI. These pro
 
 ## Project 1: BMI Calculator
 The BMI Calculator app allows users to calculate their Body Mass Index (BMI) based on their height and weight. It also displays a corresponding message indicating whether the user is underweight, normal, overweight, or obese.
-![Simulator Screen Shot - iPhone 14 Pro - 2023-03-23 at 17 39 54](https://user-images.githubusercontent.com/92385381/227222725-8b878410-0b2b-4986-bb22-38ce524802a8.png)
-
 
 ## Project 2: Bytecoin
 The Bytecoin app displays the current exchange rate of Bytecoin to different currencies. It uses the CoinAPI to fetch the data and displays it using a simple UI.
