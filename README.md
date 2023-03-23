@@ -1,4 +1,4 @@
-# SwiftUI Projects
+## SwiftUI Projects
 
 This repository contains a collection of projects built using SwiftUI. These projects were created as part of my journey to learn and master SwiftUI.
 
