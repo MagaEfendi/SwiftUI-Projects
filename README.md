@@ -25,4 +25,4 @@ The Tipsy app allows users to calculate the tip amount and total bill for a give
 
 Feel free to use these projects as a learning resource or as a starting point for your own projects. If you have any questions or suggestions, please feel free to reach out to me.
 
-##My email : mahammad.afandiyev@outlook.com
+## My email : mahammad.afandiyev@outlook.com
